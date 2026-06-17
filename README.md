@@ -1,39 +1,40 @@
-# nature-gallery
+# Nature Gallery
 
-A simple and elegant gallery showcasing the beauty of nature using HTML and CSS.
+A responsive image gallery showcasing beautiful nature photographs using HTML and CSS.
 
-## ✨ Features
+## Features
 
+* Responsive gallery layout
 * Clean and modern design
-* Responsive layout using CSS Grid
-* Hover effects on images
-* Simple and lightweight
+* Optimized image presentation
+* Pure HTML and CSS implementation
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
 
-## 📸 Preview
+## Project Structure
 
-This project displays a collection of beautiful nature images in a grid layout.
+nature-gallery/
+├── index.html
+└── assets/
+├── css/
+│   └── style.css
+└── img/
+├── 1.jpeg
+├── 2.jpeg
+├── ...
+└── 8.jpeg
 
-## 📁 Project Structure
+## Getting Started
 
-```
-project/
-│── index.html
-│── assets/
-│   ├── css/
-│   │   └── style.css
-│   └── img/
-│       ├── images...
-```
+1. Clone the repository:
 
-## 🚀 How to Run
+git clone https://github.com/YOUR_USERNAME/nature-gallery.git
 
-1. Download or clone the repository
-2. Open `index.html` in your browser
+2. Open `index.html` in your browser.
 
+## Author
 
-Your Name
+Sara Ghaffarian
