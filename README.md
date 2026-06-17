@@ -31,7 +31,7 @@ nature-gallery/
 
 1. Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/nature-gallery.git
+git clone https://github.com/sara-ghaffarian/nature-gallery.git
 
 2. Open `index.html` in your browser.
 
